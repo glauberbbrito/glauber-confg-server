@@ -1,1 +1,1 @@
-# glauber-confg-server
+# glauber-config-server
